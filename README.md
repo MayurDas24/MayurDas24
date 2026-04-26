@@ -14,8 +14,8 @@
 
 - 🎓 3rd Year B.Tech @ **Manipal Institute of Technology, MAHE**
 - 🔭 Currently building: Full-stack & AI-integrated applications
-- 🌱 Always learning: System Design, DSA, Cloud
-- 💬 Ask me about: Web Dev, Android, Python, anything code
+- 🌱 Always learning: System Design, DSA, Devops
+- 💬 Ask me about: Web Dev, AI , Finance and Football
 - 📫 Reach me: [LinkedIn](www.linkedin.com/in/mayurrdas24) · [Email](mayurrdas05@gmail.com)
 
 ---
