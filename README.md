@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mayur 👋</h1>
 
 <p align="center">
-  <b>B.Tech Student @ MIT Manipal</b> · Aspiring Software Developer · Head @Placement Team MIT Manipal
+  <b>B.Tech Student @ MIT Manipal</b> · Aspiring Software Developer · Head @ Placement Team MIT Manipal
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 - 🎓 3rd Year B.Tech @ **Manipal Institute of Technology, MAHE**
 - 🔭 Currently building: Full-stack & AI-integrated applications
-- 🌱 Always learning: System Design, DSA, Devops
-- 💬 Ask me about: Web Dev, AI , Finance and Football
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/mayurrdas24) · [Email](mayurrdas05@gmail.com)
+- 🌱 Always learning: System Design, DSA, DevOps
+- 💬 Ask me about: Web Dev, AI, Finance, and Football
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mayurrdas24) · [Email](mailto:mayurrdas05@gmail.com)
 
 ---
 
@@ -27,10 +27,24 @@
 | **Frontend** | React, Next.js, Tailwind CSS, Framer Motion, HTML/CSS/JS |
 | **Backend** | Node.js, Express, FastAPI, REST APIs |
 | **Mobile** | Android (Java/Kotlin), Android Studio |
-| **Database** | PostgreSQL, MySQL, SQLite, Redis ,MongoDB|
+| **Database** | PostgreSQL, MySQL, SQLite, Redis, MongoDB |
 | **AI / ML** | Python, LangChain, RAG, Vector DBs |
 | **Languages** | JavaScript, Python, Java, C |
 | **Tools** | Git, GitHub, Docker, Postman, VS Code |
+
+---
+
+### 🧠 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/MayurDas_/">
+    <img src="https://leetcard.jacoblin.cool/MayurDas_?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  🔗 <a href="https://leetcode.com/u/MayurDas_/">Visit My LeetCode Profile</a>
+</p>
 
 ---
 
@@ -44,5 +58,5 @@
 ---
 
 <p align="center">
-  <i>"Lucas Vasquez is greatest player of all time"</i>
+  <i>"Success is built quietly through discipline, consistency, and the courage to keep going."</i>
 </p>
