@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mayur 👋</h1>
 
 <p align="center">
-  <b>B.Tech Student @ MIT Manipal</b> · Aspiring Software Developer · Building things that matter
+  <b>B.Tech Student @ MIT Manipal</b> · Aspiring Software Developer · Head @Placement Team MIT Manipal
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 - 🔭 Currently building: Full-stack & AI-integrated applications
 - 🌱 Always learning: System Design, DSA, Cloud
 - 💬 Ask me about: Web Dev, Android, Python, anything code
-- 📫 Reach me: [LinkedIn](#) · [Email](#)
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/mayurrdas24) · [Email](mayurrdas05@gmail.com)
 
 ---
 
