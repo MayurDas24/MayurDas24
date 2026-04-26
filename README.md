@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <i>""</i>
+  <i>"Lucas Vasquez is greatest player of all time"</i>
 </p>
