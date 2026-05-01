@@ -12,11 +12,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 3rd Year B.Tech @ **Manipal Institute of Technology, MAHE**
-- 🔭 Currently building: Full-stack & AI-integrated applications
-- 🌱 Always learning: System Design, DSA, DevOps
-- 💬 Ask me about: Web Dev, AI, Finance, and Football
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mayurrdas24) · [Email](mailto:mayurrdas05@gmail.com)
+-  3rd Year B.Tech @ **Manipal Institute of Technology, MAHE**
+-  Currently building: Full-stack & AI-integrated applications
+-  Always learning: System Design, DSA, DevOps
+-  Ask me about: Web Dev, AI, Finance, and Football
+-  Reach me: [LinkedIn](https://www.linkedin.com/in/mayurrdas24) · [Email](mailto:mayurrdas05@gmail.com)
 
 ---
 
