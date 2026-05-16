@@ -8,10 +8,6 @@ B.Tech Student @ MIT Manipal • Aspiring Software Developer • Head @ Placemen
   <a href="https://github.com/MayurDas24">
     <img src="https://komarev.com/ghpvc/?username=MayurDas24&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
-
-  <a href="https://github.com/MayurDas24?tab=followers">
-    <img src="https://img.shields.io/github/followers/MayurDas24?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
 </p>
 
 ---
