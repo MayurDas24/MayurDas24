@@ -14,7 +14,7 @@ B.Tech Student @ MIT Manipal • Aspiring Software Developer • Head @ Placemen
 
 ## 🚀 About Me
 
-- 🎓 3rd Year B.Tech Student at **Manipal Institute of Technology, MAHE**
+- 🎓 4th Year B.Tech Student at **Manipal Institute of Technology, MAHE**
 - 💻 Passionate about **Software Development, AI, and System Design**
 - 🚀 Currently building **Full-Stack & AI-Integrated Applications**
 - 📚 Learning **DSA, DevOps, Backend Architecture, and Scalable Systems**
