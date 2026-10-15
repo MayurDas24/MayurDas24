@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mayur 👋</h1>
 
 <h3 align="center">
-B.Tech Student @ MIT Manipal • Aspiring Software Developer • Head @ Placement Team MIT Manipal
+B.Tech Student @ MIT Manipal • Aspiring Software Developer • 
 </h3>
 
 <p align="center">
